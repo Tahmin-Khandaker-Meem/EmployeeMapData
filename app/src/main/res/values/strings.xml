@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Employee Mapdata</string>
+    <string name="title_activity_employee_maps">Employee Map</string>
+</resources>
